@@ -1,0 +1,61 @@
+{
+  "name": "amazon-invoice-bot",
+  "version": "2.0.0",
+  "description": "Automated invoice downloader for Amazon and part searcher for BrokerBin.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "dev:all": "concurrently \"nodemon src/server.js\" \"cd client && vite\"",
+    "setup": "npm install && cd client && npm install && npm run build",
+    "lint": "eslint src/**/*.js",
+    "test": "jest",
+    "test:integration": "jest tests/integration --runInBand",
+    "amazon": "node src/services/amazonService.js",
+    "amazon-search": "node scripts/runAmazonSearch.js",
+    "brokerbin": "node src/services/brokerbinService.js",
+    "build": "cd client && npm install && npm run build"
+  },
+  "keywords": [
+    "automation",
+    "playwright",
+    "amazon",
+    "brokerbin",
+    "invoice"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@upstash/redis": "^1.32.0",
+    "axios": "^1.13.2",
+    "cheerio": "^1.0.0",
+    "clsx": "^2.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.3.1",
+    "helmet": "^7.1.0",
+    "joi": "^17.13.3",
+    "lucide-react": "^0.555.0",
+    "multer": "^1.4.5-lts.1",
+    "playwright": "^1.57.0",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "tailwind-merge": "^3.4.0",
+    "uuid": "^13.0.0",
+    "winston": "^3.18.3",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.22",
+    "concurrently": "^9.0.0",
+    "eslint": "^9.6.0",
+    "jest": "^30.2.0",
+    "jsdom": "^27.2.0",
+    "nodemon": "^3.1.4",
+    "postcss": "^8.5.6",
+    "supertest": "^7.0.0",
+    "tailwindcss": "^4.1.17"
+  }
+}

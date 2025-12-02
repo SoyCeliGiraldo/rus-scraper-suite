@@ -1,0 +1,12 @@
+{"level":"error","message":"Fatal Error: Cannot read properties of undefined (reading 'create')","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:11:12"}
+{"level":"error","message":"Fatal Error: Cannot read properties of undefined (reading 'create')","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:12:19"}
+{"level":"error","message":"Error processing part ASA5506-K9: page.$: Target page, context or browser has been closed","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:07"}
+{"level":"error","message":"Fatal Error: page.waitForTimeout: Target page, context or browser has been closed","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:07"}
+{"level":"error","message":"Fatal Error: Cannot read properties of undefined (reading 'create')","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:23:08"}
+{"level":"error","message":"Fatal Error: Cannot read properties of undefined (reading 'create')","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:40"}
+{"level":"error","message":"Fatal Error: Cannot read properties of undefined (reading 'create')","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:57"}
+{"level":"error","message":"Error extracting offers for WS-C3850-24T: Too many arguments. If you need to pass more than 1 argument to the function wrap them in an object.","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:42:52"}
+{"level":"error","message":"Error extracting offers for ASA5506-K9: Too many arguments. If you need to pass more than 1 argument to the function wrap them in an object.","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:42:55"}
+{"level":"error","message":"Fatal Error: browserType.launchPersistentContext: headless: expected boolean, got string","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:09:05"}
+{"level":"error","message":"Server listen error: listen EADDRINUSE: address already in use 0.0.0.0:3000","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:20:52"}
+{"level":"error","message":"Server listen error: listen EADDRINUSE: address already in use 0.0.0.0:3000","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:29:55"}

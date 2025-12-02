@@ -1,0 +1,667 @@
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:47:20"}
+{"level":"info","message":"File: test_parts.csv","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:47:20"}
+{"level":"info","message":"Total unique parts: 2","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:47:20"}
+{"level":"info","message":"Processing: 2","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:47:20"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:47:22"}
+{"level":"info","message":"Waiting 8000ms for manual login (no credentials)...","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:47:24"}
+{"level":"info","message":"Searching (1/2): PART1","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:47:32"}
+{"level":"info","message":"Searching (2/2): PART2","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:47:40"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:47:47"}
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:52:42"}
+{"level":"info","message":"File: input_parts.csv","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:52:42"}
+{"level":"info","message":"Total unique parts: 4","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:52:42"}
+{"level":"info","message":"Processing: 4","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:52:42"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:52:42"}
+{"level":"info","message":"Waiting 8000ms for manual login (no credentials)...","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:52:43"}
+{"level":"info","message":"Searching (1/4): WS-C2960-24TC-L","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:52:51"}
+{"level":"info","message":"Searching (2/4): GLC-LH-SMD","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:52:58"}
+{"level":"info","message":"Searching (3/4): SFP-10G-SR","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:53:05"}
+{"level":"info","message":"Searching (4/4): ASA5506-K9","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:53:12"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 13:53:19"}
+{"level":"info","message":"Server running on http://localhost:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:11:59"}
+{"level":"info","message":"Server running on http://localhost:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:15:16"}
+{"level":"info","message":"Server running on http://localhost:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:17:05"}
+{"level":"info","message":"Server running on http://localhost:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:18:22"}
+{"level":"info","message":"No header match found, defaulting to first column.","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:23:47"}
+{"level":"info","message":"Starting scraper for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764530634695-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:23:54"}
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:23:54"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764530634695-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:23:54"}
+{"level":"info","message":"Total unique parts: 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:23:54"}
+{"level":"info","message":"Processing: 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:23:54"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:23:55"}
+{"level":"info","message":"Waiting 8000ms for manual login (no credentials)...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:23:57"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:24:05"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:24:05"}
+{"level":"info","message":"Scraper finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:24:25"}
+{"level":"info","message":"No header match found, defaulting to first column.","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:30:39"}
+{"level":"info","message":"Starting scraper for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764531047662-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:30:47"}
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:30:47"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764531047662-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:30:47"}
+{"level":"info","message":"Total unique parts: 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:30:47"}
+{"level":"info","message":"Processing: 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:30:47"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:30:48"}
+{"level":"info","message":"Waiting 8000ms for manual login (no credentials)...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:30:48"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:30:56"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:30:56"}
+{"level":"info","message":"Scraper finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:31:16"}
+{"level":"info","message":"Server running on http://localhost:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:34:18"}
+{"level":"info","message":"No header match found, defaulting to first column.","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:37:11"}
+{"level":"info","message":"Starting scraper for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764531437290-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:37:17"}
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:37:17"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764531437290-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:37:17"}
+{"level":"info","message":"Total unique parts: 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:37:17"}
+{"level":"info","message":"Processing: 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:37:17"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:37:18"}
+{"level":"info","message":"Waiting 8000ms for manual login (no credentials)...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:37:18"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:37:26"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:37:26"}
+{"level":"info","message":"Scraper finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:37:46"}
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:40:26"}
+{"level":"info","message":"File: input_parts.csv","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:40:26"}
+{"level":"info","message":"Total unique parts: 4","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:40:26"}
+{"level":"info","message":"Processing: 1","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:40:26"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:40:27"}
+{"level":"info","message":"Waiting 8000ms for manual login (no credentials)...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:40:27"}
+{"level":"info","message":"Searching (1/1): WS-C2960-24TC-L","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:40:35"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:40:42"}
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:41:04"}
+{"level":"info","message":"File: input_parts.csv","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:41:04"}
+{"level":"info","message":"Total unique parts: 4","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:41:04"}
+{"level":"info","message":"Processing: 1","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:41:04"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:41:04"}
+{"level":"info","message":"Waiting 8000ms for manual login (no credentials)...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:41:04"}
+{"level":"info","message":"Searching (1/1): WS-C2960-24TC-L","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:41:12"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:41:19"}
+{"level":"info","message":"Server running on http://localhost:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:45:21"}
+{"level":"info","message":"No header match found, defaulting to first column.","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:46:10"}
+{"level":"info","message":"Starting scraper for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764531972996-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:46:12"}
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:46:13"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764531972996-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:46:13"}
+{"level":"info","message":"Total unique parts: 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:46:13"}
+{"level":"info","message":"Processing: 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:46:13"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:46:13"}
+{"level":"info","message":"Auto-login attempted.","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:46:18"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:46:18"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:46:18"}
+{"level":"info","message":"Scraper finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:46:38"}
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:49:54"}
+{"level":"info","message":"File: input_parts.csv","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:49:54"}
+{"level":"info","message":"Total unique parts: 4","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:49:54"}
+{"level":"info","message":"Processing: 2","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:49:54"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:49:54"}
+{"level":"info","message":"Auto-login attempted.","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:49:56"}
+{"level":"info","message":"Searching (1/2): WS-C2960-24TC-L","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:49:56"}
+{"level":"info","message":"Searching (2/2): GLC-LH-SMD","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:49:59"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:50:01"}
+{"level":"info","message":"No header match found, defaulting to first column.","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:51:08"}
+{"level":"info","message":"Starting scraper for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764532270336-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:51:10"}
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:51:10"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764532270336-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:51:10"}
+{"level":"info","message":"Total unique parts: 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:51:10"}
+{"level":"info","message":"Processing: 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:51:10"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:51:11"}
+{"level":"info","message":"Auto-login attempted.","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:51:13"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:51:13"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:51:13"}
+{"level":"info","message":"Scraper finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:51:33"}
+{"level":"info","message":"Server running on http://localhost:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:55:05"}
+{"level":"info","message":"Starting scraper for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764532539620-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:55:39"}
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:55:39"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764532539620-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:55:39"}
+{"level":"info","message":"Total unique parts: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:55:39"}
+{"level":"info","message":"Processing: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:55:39"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:55:40"}
+{"level":"info","message":"Auto-login attempted.","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:55:42"}
+{"level":"info","message":"Searching (1/8): 92V86","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:55:42"}
+{"level":"info","message":"No direct match for 92V86, trying advanced search...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:55:48"}
+{"level":"info","message":"Searching (2/8): HYM6Y","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:55:52"}
+{"level":"info","message":"Searching (3/8): KRM6X","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:55:54"}
+{"level":"info","message":"Searching (4/8): 0N54T","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:55:57"}
+{"level":"info","message":"Searching (5/8): M7YNR","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:55:59"}
+{"level":"info","message":"Searching (6/8): NÃO ENCONTRADO","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:56:01"}
+{"level":"info","message":"No direct match for NÃO ENCONTRADO, trying advanced search...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:56:06"}
+{"level":"info","message":"Searching (7/8): H959F","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:56:10"}
+{"level":"info","message":"Searching (8/8): C5RNH","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:56:12"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:56:15"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:56:15"}
+{"level":"info","message":"Scraper finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 14:56:35"}
+{"level":"info","message":"Server running on http://localhost:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:00:46"}
+{"level":"info","message":"Starting scraper for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764532911554-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:01:51"}
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:01:51"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764532911554-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:01:51"}
+{"level":"info","message":"Total unique parts: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:01:51"}
+{"level":"info","message":"Processing: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:01:51"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:01:52"}
+{"level":"info","message":"Auto-login attempted.","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:01:55"}
+{"level":"info","message":"Searching (1/8): 92V86","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:01:55"}
+{"level":"info","message":"No direct match for 92V86, trying advanced search...","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:02:00"}
+{"level":"info","message":"Searching (2/8): HYM6Y","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:02:05"}
+{"level":"info","message":"Searching (3/8): KRM6X","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:02:07"}
+{"level":"info","message":"Searching (4/8): 0N54T","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:02:09"}
+{"level":"info","message":"Searching (5/8): M7YNR","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:02:11"}
+{"level":"info","message":"Searching (6/8): NÃO ENCONTRADO","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:02:13"}
+{"level":"info","message":"No direct match for NÃO ENCONTRADO, trying advanced search...","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:02:19"}
+{"level":"info","message":"Searching (7/8): H959F","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:02:23"}
+{"level":"info","message":"Searching (8/8): C5RNH","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:02:25"}
+{"level":"info","message":"JSON output generated: brokerbin_output/brokerbin_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:02:27"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:02:27"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:02:27"}
+{"level":"info","message":"Scraper finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:02:47"}
+{"level":"info","message":"Server running on http://localhost:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:09:15"}
+{"level":"info","message":"Starting Amazon search for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764533472298-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:11:12"}
+{"level":"info","message":"=== Amazon Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:11:12"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764533472298-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:11:12"}
+{"level":"info","message":"Total unique parts: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:11:12"}
+{"level":"info","message":"Processing: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:11:12"}
+{"level":"error","message":"Fatal Error: Cannot read properties of undefined (reading 'create')","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:11:12"}
+{"level":"info","message":"No offers to convert to JSON","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:11:12"}
+{"level":"info","message":"=== Amazon Search Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:11:12"}
+{"level":"info","message":"Amazon search finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:11:12"}
+{"level":"info","message":"=== Amazon Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:12:19"}
+{"level":"info","message":"File: input_parts.csv","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:12:19"}
+{"level":"info","message":"Total unique parts: 3","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:12:19"}
+{"level":"info","message":"Processing: 1","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:12:19"}
+{"level":"error","message":"Fatal Error: Cannot read properties of undefined (reading 'create')","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:12:19"}
+{"level":"info","message":"No offers to convert to JSON","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:12:19"}
+{"level":"info","message":"=== Amazon Search Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:12:19"}
+{"level":"info","message":"Server running on http://localhost:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:15:38"}
+{"level":"info","message":"Server running on http://localhost:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:17:14"}
+{"level":"info","message":"Server running on http://localhost:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:19:15"}
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:19:38"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/brokerbin_parts.csv","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:19:38"}
+{"level":"info","message":"Total unique parts: 6","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:19:38"}
+{"level":"info","message":"Processing: 5","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:19:38"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:19:39"}
+{"level":"info","message":"Waiting 8000ms for manual login (no credentials)...","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:19:39"}
+{"level":"info","message":"Searching (1/5): PART","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:19:47"}
+{"level":"info","message":"Searching (2/5): WS-C3850-24T","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:19:55"}
+{"level":"info","message":"Searching (3/5): ASA5506-K9","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:02"}
+{"level":"error","message":"Error processing part ASA5506-K9: page.$: Target page, context or browser has been closed","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:07"}
+{"level":"error","message":"Fatal Error: page.waitForTimeout: Target page, context or browser has been closed","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:07"}
+{"level":"info","message":"JSON output generated: brokerbin_output/brokerbin_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:07"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:07"}
+{"level":"info","message":"=== Amazon Invoices Runner ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:18"}
+{"level":"info","message":"Options: {\n  maxPages: 20,\n  headless: false,\n  onlyNew: false,\n  loginWait: 10000,\n  delayMs: 1500,\n  cardBrand: undefined,\n  cardLast4: undefined,\n  amex: false,\n  outputDir: '/Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/amazon_invoices'\n}","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:18"}
+{"level":"info","message":"Opening Amazon...","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:19"}
+{"level":"info","message":"Waiting 10000ms for manual login (if needed)...","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:20"}
+{"level":"info","message":"Navigating to Your Orders...","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:30"}
+{"level":"info","message":"Existing invoices found: 67","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:30"}
+{"level":"info","message":"Scanning orders page 1...","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:30"}
+{"level":"info","message":"Found 0 invoice links on page 1","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:32"}
+{"level":"info","message":"No Next button, pagination finished.","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:32"}
+{"level":"info","message":"Total unique links collected: 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:32"}
+{"level":"info","message":"Candidates after ONLY_NEW filter: 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:32"}
+{"level":"info","message":"No invoices to download with current filters.","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:32"}
+{"level":"info","message":"=== Process Completed ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:20:32"}
+{"level":"info","message":"Starting scraper for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764534084009-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:21:24"}
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:21:24"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764534084009-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:21:24"}
+{"level":"info","message":"Total unique parts: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:21:24"}
+{"level":"info","message":"Processing: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:21:24"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:21:24"}
+{"level":"info","message":"Auto-login attempted.","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:21:28"}
+{"level":"info","message":"Searching (1/8): 92V86","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:21:28"}
+{"level":"info","message":"No direct match for 92V86, trying advanced search...","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:21:33"}
+{"level":"info","message":"Searching (2/8): HYM6Y","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:21:37"}
+{"level":"info","message":"Searching (3/8): KRM6X","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:21:40"}
+{"level":"info","message":"Searching (4/8): 0N54T","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:21:42"}
+{"level":"info","message":"Searching (5/8): M7YNR","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:21:44"}
+{"level":"info","message":"Searching (6/8): NÃO ENCONTRADO","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:21:46"}
+{"level":"info","message":"No direct match for NÃO ENCONTRADO, trying advanced search...","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:21:51"}
+{"level":"info","message":"Searching (7/8): H959F","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:21:55"}
+{"level":"info","message":"Searching (8/8): C5RNH","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:21:58"}
+{"level":"info","message":"JSON output generated: brokerbin_output/brokerbin_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:22:00"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:22:00"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:22:00"}
+{"level":"info","message":"Scraper finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:22:20"}
+{"level":"info","message":"Starting Amazon search for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764534187996-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:23:07"}
+{"level":"info","message":"=== Amazon Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:23:08"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764534187996-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:23:08"}
+{"level":"info","message":"Total unique parts: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:23:08"}
+{"level":"info","message":"Processing: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:23:08"}
+{"level":"error","message":"Fatal Error: Cannot read properties of undefined (reading 'create')","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:23:08"}
+{"level":"info","message":"No offers to convert to JSON","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:23:08"}
+{"level":"info","message":"=== Amazon Search Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:23:08"}
+{"level":"info","message":"Amazon search finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 15:23:08"}
+{"level":"info","message":"Server running on http://localhost:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:18:34"}
+{"level":"info","message":"Server running on http://localhost:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:18:46"}
+{"file":"/Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/brokerbin_parts.csv","level":"info","message":"Starting Amazon search CLI","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:40"}
+{"level":"info","message":"=== Amazon Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:40"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/brokerbin_parts.csv","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:40"}
+{"level":"info","message":"Total unique parts: 6","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:40"}
+{"level":"info","message":"Processing: 2","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:40"}
+{"level":"error","message":"Fatal Error: Cannot read properties of undefined (reading 'create')","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:40"}
+{"level":"info","message":"No offers to convert to JSON","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:40"}
+{"level":"info","message":"=== Amazon Search Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:40"}
+{"level":"info","message":"Amazon search CLI finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:40"}
+{"file":"/Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/brokerbin_parts.csv","level":"info","message":"Starting Amazon search CLI","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:56"}
+{"level":"info","message":"=== Amazon Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:57"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/brokerbin_parts.csv","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:57"}
+{"level":"info","message":"Total unique parts: 6","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:57"}
+{"level":"info","message":"Processing: 2","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:57"}
+{"level":"error","message":"Fatal Error: Cannot read properties of undefined (reading 'create')","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:57"}
+{"level":"info","message":"No offers to convert to JSON","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:57"}
+{"level":"info","message":"=== Amazon Search Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:57"}
+{"level":"info","message":"Amazon search CLI finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:41:57"}
+{"file":"/Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/brokerbin_parts.csv","level":"info","message":"Starting Amazon search CLI","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:42:47"}
+{"level":"info","message":"=== Amazon Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:42:47"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/brokerbin_parts.csv","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:42:47"}
+{"level":"info","message":"Total unique parts: 6","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:42:47"}
+{"level":"info","message":"Processing: 2","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:42:47"}
+{"level":"info","message":"Opening Amazon...","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:42:47"}
+{"level":"info","message":"Searching (1/2): WS-C3850-24T","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:42:50"}
+{"level":"error","message":"Error extracting offers for WS-C3850-24T: Too many arguments. If you need to pass more than 1 argument to the function wrap them in an object.","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:42:52"}
+{"level":"info","message":"Searching (2/2): ASA5506-K9","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:42:53"}
+{"level":"error","message":"Error extracting offers for ASA5506-K9: Too many arguments. If you need to pass more than 1 argument to the function wrap them in an object.","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:42:55"}
+{"level":"info","message":"JSON output generated: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/amazon_search_output/amazon_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:42:56"}
+{"level":"info","message":"=== Amazon Search Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:42:56"}
+{"level":"info","message":"Amazon search CLI finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:42:56"}
+{"file":"/Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/brokerbin_parts.csv","level":"info","message":"Starting Amazon search CLI","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:43:09"}
+{"level":"info","message":"=== Amazon Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:43:09"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/brokerbin_parts.csv","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:43:09"}
+{"level":"info","message":"Total unique parts: 6","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:43:09"}
+{"level":"info","message":"Processing: 2","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:43:09"}
+{"level":"info","message":"Opening Amazon...","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:43:09"}
+{"level":"info","message":"Searching (1/2): WS-C3850-24T","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:43:12"}
+{"level":"info","message":"Searching (2/2): ASA5506-K9","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:43:14"}
+{"level":"info","message":"JSON output generated: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/amazon_search_output/amazon_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:43:17"}
+{"level":"info","message":"=== Amazon Search Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:43:17"}
+{"level":"info","message":"Amazon search CLI finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:43:17"}
+{"file":"/Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/brokerbin_parts.csv","level":"info","message":"Starting Amazon search CLI","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:52:50"}
+{"level":"info","message":"=== Amazon Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:52:51"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/brokerbin_parts.csv","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:52:51"}
+{"level":"info","message":"Total unique parts: 6","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:52:51"}
+{"level":"info","message":"Processing: 2","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:52:51"}
+{"level":"info","message":"Opening Amazon base: https://www.amazon.com","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:52:51"}
+{"level":"info","message":"Waiting 10000ms for manual login (no credentials or autoLogin disabled)...","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:52:53"}
+{"level":"info","message":"Searching (1/2): WS-C3850-24T","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:53:03"}
+{"level":"info","message":"Searching (2/2): ASA5506-K9","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:53:07"}
+{"level":"info","message":"JSON output generated: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/amazon_search_output/amazon_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:53:12"}
+{"level":"info","message":"=== Amazon Search Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:53:12"}
+{"level":"info","message":"Amazon search CLI finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 16:53:12"}
+{"level":"info","message":"Server running on http://localhost:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:19:37"}
+{"level":"info","message":"Server running on http://localhost:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:20:41"}
+{"level":"info","message":"Server running on http://localhost:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:20:58"}
+{"level":"info","message":"Starting scraper for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764541327628-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:07"}
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:07"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764541327628-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:07"}
+{"level":"info","message":"Total unique parts: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:07"}
+{"level":"info","message":"Processing: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:07"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:08"}
+{"level":"info","message":"Auto-login attempted.","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:11"}
+{"level":"info","message":"Searching (1/8): 92V86","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:11"}
+{"level":"info","message":"No direct match for 92V86, trying advanced search...","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:16"}
+{"level":"info","message":"Searching (2/8): HYM6Y","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:20"}
+{"level":"info","message":"Searching (3/8): KRM6X","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:22"}
+{"level":"info","message":"Searching (4/8): 0N54T","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:24"}
+{"level":"info","message":"Searching (5/8): M7YNR","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:27"}
+{"level":"info","message":"Searching (6/8): NÃO ENCONTRADO","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:29"}
+{"level":"info","message":"No direct match for NÃO ENCONTRADO, trying advanced search...","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:34"}
+{"level":"info","message":"Searching (7/8): H959F","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:38"}
+{"level":"info","message":"Searching (8/8): C5RNH","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:40"}
+{"level":"info","message":"JSON output generated: brokerbin_output/brokerbin_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:42"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:42"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:22:42"}
+{"level":"info","message":"Scraper finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:23:03"}
+{"level":"info","message":"Starting Amazon search for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764541414966-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:23:34"}
+{"level":"info","message":"=== Amazon Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:23:35"}
+{"level":"info","message":"Options: {\n  file: '/Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764541414966-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls',\n  columnIndex: undefined,\n  columnName: 'Manufacturer (OEM) PN',\n  skipHeader: true,\n  sheetName: 'Other Content',\n  maxParts: 0,\n  offersLimit: 3,\n  delayMs: 1500,\n  headless: true,\n  outputDir: '/Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/amazon_search_output',\n  saveHtml: true,\n  saveScreenshot: true,\n  keepOpen: 20000,\n  autoLogin: false,\n  loginWait: 10000,\n  email: '***',\n  password: '***',\n  region: 'com',\n  isBusiness: false,\n  userAgent: ''\n}","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:23:35"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764541414966-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:23:35"}
+{"level":"info","message":"Total unique parts: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:23:35"}
+{"level":"info","message":"Processing: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:23:35"}
+{"level":"info","message":"Opening Amazon base: https://www.amazon.com","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:23:35"}
+{"level":"info","message":"Waiting 10000ms for manual login (no credentials or autoLogin disabled)...","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:23:37"}
+{"level":"info","message":"Searching (1/8): 92V86","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:23:47"}
+{"level":"info","message":"Searching (2/8): HYM6Y","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:23:52"}
+{"level":"info","message":"Searching (3/8): KRM6X","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:23:57"}
+{"level":"info","message":"Searching (4/8): 0N54T","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:24:02"}
+{"level":"info","message":"Searching (5/8): M7YNR","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:24:07"}
+{"level":"info","message":"Searching (6/8): NÃO ENCONTRADO","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:24:12"}
+{"level":"info","message":"Searching (7/8): H959F","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:24:18"}
+{"level":"info","message":"Searching (8/8): C5RNH","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:24:23"}
+{"level":"info","message":"JSON output generated: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/amazon_search_output/amazon_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:24:28"}
+{"level":"info","message":"=== Amazon Search Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:24:28"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:24:28"}
+{"level":"info","message":"Amazon search finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:24:48"}
+{"level":"info","message":"Server running on http://localhost:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:40:20"}
+{"level":"info","message":"Server running on http://localhost:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:41:20"}
+{"level":"info","message":"Starting Amazon search for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764542526657-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:42:06"}
+{"level":"info","message":"=== Amazon Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:42:06"}
+{"level":"info","message":"Options: {\n  file: '/Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764542526657-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls',\n  columnIndex: undefined,\n  columnName: 'Manufacturer (OEM) PN',\n  skipHeader: true,\n  sheetName: 'Other Content',\n  maxParts: 0,\n  offersLimit: 3,\n  delayMs: 1500,\n  headless: true,\n  outputDir: '/Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/amazon_search_output',\n  saveHtml: true,\n  saveScreenshot: true,\n  keepOpen: 20000,\n  autoLogin: false,\n  loginWait: 10000,\n  email: '***',\n  password: '***',\n  region: 'com',\n  isBusiness: false,\n  userAgent: ''\n}","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:42:06"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764542526657-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:42:06"}
+{"level":"info","message":"Total unique parts: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:42:06"}
+{"level":"info","message":"Processing: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:42:06"}
+{"level":"info","message":"Opening Amazon base: https://www.amazon.com","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:42:07"}
+{"level":"info","message":"Waiting 10000ms for manual login (no credentials or autoLogin disabled)...","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:42:09"}
+{"level":"info","message":"Searching (1/8): 92V86","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:42:19"}
+{"level":"info","message":"Searching (2/8): HYM6Y","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:42:24"}
+{"level":"info","message":"Searching (3/8): KRM6X","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:42:29"}
+{"level":"info","message":"Searching (4/8): 0N54T","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:42:34"}
+{"level":"info","message":"Searching (5/8): M7YNR","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:42:39"}
+{"level":"info","message":"Searching (6/8): NÃO ENCONTRADO","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:42:44"}
+{"level":"info","message":"Searching (7/8): H959F","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:42:49"}
+{"level":"info","message":"Searching (8/8): C5RNH","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:42:54"}
+{"level":"info","message":"JSON output generated: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/amazon_search_output/amazon_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:42:59"}
+{"level":"info","message":"=== Amazon Search Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:42:59"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:42:59"}
+{"level":"info","message":"Amazon search finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:43:19"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:46:42"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:50:20"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:51:45"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 17:56:58"}
+{"level":"info","message":"Starting scraper for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764544506725-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:06"}
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:06"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764544506725-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:06"}
+{"level":"info","message":"Total unique parts: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:06"}
+{"level":"info","message":"Processing: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:06"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:07"}
+{"level":"info","message":"Auto-login attempted.","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:12"}
+{"level":"info","message":"Searching (1/8): 92V86","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:12"}
+{"level":"info","message":"No direct match for 92V86, trying advanced search...","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:17"}
+{"level":"info","message":"Searching (2/8): HYM6Y","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:22"}
+{"level":"info","message":"Searching (3/8): KRM6X","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:25"}
+{"level":"info","message":"Searching (4/8): 0N54T","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:28"}
+{"level":"info","message":"Searching (5/8): M7YNR","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:30"}
+{"level":"info","message":"Searching (6/8): NÃO ENCONTRADO","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:32"}
+{"level":"info","message":"No direct match for NÃO ENCONTRADO, trying advanced search...","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:38"}
+{"level":"info","message":"Searching (7/8): H959F","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:42"}
+{"level":"info","message":"Searching (8/8): C5RNH","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:45"}
+{"level":"info","message":"JSON output generated: brokerbin_output/brokerbin_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:49"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:49"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:15:49"}
+{"level":"info","message":"Scraper finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:16:09"}
+{"level":"info","message":"Starting scraper for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764544588554-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:16:28"}
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:16:28"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764544588554-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:16:28"}
+{"level":"info","message":"Total unique parts: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:16:28"}
+{"level":"info","message":"Processing: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:16:28"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:16:29"}
+{"level":"info","message":"Auto-login attempted.","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:16:33"}
+{"level":"info","message":"Searching (1/8): 92V86","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:16:33"}
+{"level":"info","message":"No direct match for 92V86, trying advanced search...","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:16:38"}
+{"level":"info","message":"Searching (2/8): HYM6Y","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:16:42"}
+{"level":"info","message":"Searching (3/8): KRM6X","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:16:45"}
+{"level":"info","message":"Searching (4/8): 0N54T","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:16:47"}
+{"level":"info","message":"Searching (5/8): M7YNR","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:16:49"}
+{"level":"info","message":"Searching (6/8): NÃO ENCONTRADO","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:16:52"}
+{"level":"info","message":"No direct match for NÃO ENCONTRADO, trying advanced search...","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:16:58"}
+{"level":"info","message":"Searching (7/8): H959F","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:17:02"}
+{"level":"info","message":"Searching (8/8): C5RNH","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:17:04"}
+{"level":"info","message":"JSON output generated: brokerbin_output/brokerbin_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:17:07"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:17:07"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:17:07"}
+{"level":"info","message":"Scraper finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:17:27"}
+{"level":"info","message":"Starting Amazon search for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764544682034-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:18:02"}
+{"level":"info","message":"=== Amazon Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:18:02"}
+{"level":"info","message":"Options: {\n  file: '/Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764544682034-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls',\n  columnIndex: undefined,\n  columnName: 'Manufacturer (OEM) PN',\n  skipHeader: true,\n  sheetName: 'Other Content',\n  maxParts: 0,\n  offersLimit: 3,\n  delayMs: 1500,\n  headless: true,\n  outputDir: '/Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/amazon_search_output',\n  saveHtml: true,\n  saveScreenshot: true,\n  keepOpen: 20000,\n  autoLogin: false,\n  loginWait: 10000,\n  email: '***',\n  password: '***',\n  region: 'com',\n  isBusiness: false,\n  userAgent: ''\n}","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:18:02"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764544682034-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:18:02"}
+{"level":"info","message":"Total unique parts: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:18:02"}
+{"level":"info","message":"Processing: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:18:02"}
+{"level":"info","message":"Opening Amazon base: https://www.amazon.com","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:18:02"}
+{"level":"info","message":"Waiting 10000ms for manual login (no credentials or autoLogin disabled)...","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:18:04"}
+{"level":"info","message":"Searching (1/8): 92V86","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:18:14"}
+{"level":"info","message":"Searching (2/8): HYM6Y","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:18:20"}
+{"level":"info","message":"Searching (3/8): KRM6X","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:18:25"}
+{"level":"info","message":"Searching (4/8): 0N54T","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:18:30"}
+{"level":"info","message":"Searching (5/8): M7YNR","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:18:35"}
+{"level":"info","message":"Searching (6/8): NÃO ENCONTRADO","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:18:40"}
+{"level":"info","message":"Searching (7/8): H959F","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:18:46"}
+{"level":"info","message":"Searching (8/8): C5RNH","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:18:51"}
+{"level":"info","message":"JSON output generated: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/amazon_search_output/amazon_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:18:56"}
+{"level":"info","message":"=== Amazon Search Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:18:56"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:18:56"}
+{"level":"info","message":"Amazon search finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:19:16"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:37:54"}
+{"level":"info","message":"Starting Amazon search for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764546123710-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:03"}
+{"level":"info","message":"=== Amazon Search ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:03"}
+{"level":"info","message":"Options: {\n  file: '/Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764546123710-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls',\n  columnIndex: undefined,\n  columnName: 'Manufacturer (OEM) PN',\n  skipHeader: true,\n  sheetName: 'Other Content',\n  maxParts: 0,\n  offersLimit: 3,\n  delayMs: 1500,\n  headless: false,\n  outputDir: '/Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/amazon_search_output',\n  saveHtml: true,\n  saveScreenshot: true,\n  keepOpen: 20000,\n  autoLogin: false,\n  loginWait: 10000,\n  email: '***',\n  password: '***',\n  region: 'com',\n  isBusiness: false,\n  userAgent: '',\n  offlineParseFallback: true,\n  waitPriceMs: 4000\n}","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:03"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764546123710-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:03"}
+{"level":"info","message":"Total unique parts: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:03"}
+{"level":"info","message":"Processing: 8","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:03"}
+{"level":"info","message":"Opening Amazon base: https://www.amazon.com","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:04"}
+{"level":"info","message":"Waiting 10000ms for manual login (no credentials or autoLogin disabled)...","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:07"}
+{"level":"info","message":"Searching (1/8): 92V86","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:17"}
+{"level":"info","message":"Containers detected for 92V86: 6","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:20"}
+{"level":"info","message":"Searching (2/8): HYM6Y","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:22"}
+{"level":"info","message":"Containers detected for HYM6Y: 4","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:30"}
+{"level":"warn","message":"Offline fallback found 0 offers for HYM6Y","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:30"}
+{"level":"info","message":"Searching (3/8): KRM6X","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:31"}
+{"level":"info","message":"Containers detected for KRM6X: 3","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:39"}
+{"level":"warn","message":"Offline fallback found 0 offers for KRM6X","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:39"}
+{"level":"info","message":"Searching (4/8): 0N54T","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:40"}
+{"level":"info","message":"Containers detected for 0N54T: 5","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:44"}
+{"level":"info","message":"Searching (5/8): M7YNR","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:46"}
+{"level":"info","message":"Containers detected for M7YNR: 19","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:49"}
+{"level":"info","message":"Searching (6/8): NÃO ENCONTRADO","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:51"}
+{"level":"info","message":"Containers detected for NÃO ENCONTRADO: 35","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:55"}
+{"level":"info","message":"Offline fallback captured 3 offers for NÃO ENCONTRADO","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:55"}
+{"level":"info","message":"Searching (7/8): H959F","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:42:56"}
+{"level":"info","message":"Containers detected for H959F: 6","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:43:00"}
+{"level":"info","message":"Searching (8/8): C5RNH","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:43:02"}
+{"level":"info","message":"Containers detected for C5RNH: 10","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:43:06"}
+{"level":"info","message":"Offline fallback captured 3 offers for C5RNH","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:43:06"}
+{"level":"info","message":"JSON output generated: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/amazon_search_output/amazon_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:43:07"}
+{"level":"info","message":"=== Amazon Search Finished ===","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:43:07"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:43:07"}
+{"level":"info","message":"Amazon search finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:43:27"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000","service":"amazon-invoice-bot","timestamp":"2025-11-30 18:57:22"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:15:36"}
+{"level":"info","message":"Starting scraper for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764598621900-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:01"}
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:02"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764598621900-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:02"}
+{"level":"info","message":"Total unique parts: 8","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:02"}
+{"level":"info","message":"Processing: 8","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:02"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:03"}
+{"level":"info","message":"Auto-login attempted.","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:04"}
+{"level":"info","message":"Searching (1/8): 92V86","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:04"}
+{"level":"info","message":"No direct match for 92V86, trying advanced search...","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:10"}
+{"level":"info","message":"Searching (2/8): HYM6Y","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:14"}
+{"level":"info","message":"Searching (3/8): KRM6X","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:16"}
+{"level":"info","message":"Searching (4/8): 0N54T","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:18"}
+{"level":"info","message":"Searching (5/8): M7YNR","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:20"}
+{"level":"info","message":"Searching (6/8): NÃO ENCONTRADO","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:22"}
+{"level":"info","message":"No direct match for NÃO ENCONTRADO, trying advanced search...","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:27"}
+{"level":"info","message":"Searching (7/8): H959F","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:31"}
+{"level":"info","message":"Searching (8/8): C5RNH","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:33"}
+{"level":"info","message":"JSON output generated: brokerbin_output/brokerbin_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:36"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:36"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:36"}
+{"level":"info","message":"Scraper finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:17:56"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:21:44"}
+{"level":"info","message":"Starting scraper for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764598950200-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:22:30"}
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:22:30"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764598950200-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:22:30"}
+{"level":"info","message":"Total unique parts: 8","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:22:30"}
+{"level":"info","message":"Processing: 8","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:22:30"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:22:31"}
+{"level":"info","message":"Auto-login attempted.","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:22:33"}
+{"level":"info","message":"Searching (1/8): 92V86","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:22:33"}
+{"level":"info","message":"No direct match for 92V86, trying advanced search...","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:22:38"}
+{"level":"info","message":"Searching (2/8): HYM6Y","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:22:42"}
+{"level":"info","message":"Searching (3/8): KRM6X","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:22:45"}
+{"level":"info","message":"Searching (4/8): 0N54T","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:22:47"}
+{"level":"info","message":"Searching (5/8): M7YNR","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:22:49"}
+{"level":"info","message":"Searching (6/8): NÃO ENCONTRADO","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:22:51"}
+{"level":"info","message":"No direct match for NÃO ENCONTRADO, trying advanced search...","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:22:57"}
+{"level":"info","message":"Searching (7/8): H959F","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:23:01"}
+{"level":"info","message":"Searching (8/8): C5RNH","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:23:03"}
+{"level":"info","message":"JSON output generated: brokerbin_output/brokerbin_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:23:05"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:23:05"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:23:05"}
+{"level":"info","message":"Scraper finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:23:25"}
+{"level":"info","message":"Starting scraper for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764600525325-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:48:45"}
+{"level":"info","message":"=== BrokerBin Search ===","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:48:45"}
+{"level":"info","message":"File: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764600525325-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:48:45"}
+{"level":"info","message":"Total unique parts: 8","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:48:45"}
+{"level":"info","message":"Processing: 8","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:48:45"}
+{"level":"info","message":"Opening BrokerBin...","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:48:46"}
+{"level":"info","message":"Auto-login attempted.","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:48:48"}
+{"level":"info","message":"Searching (1/8): 92V86","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:48:48"}
+{"level":"info","message":"No direct match for 92V86, trying advanced search...","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:48:54"}
+{"level":"info","message":"Searching (2/8): HYM6Y","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:48:58"}
+{"level":"info","message":"Searching (3/8): KRM6X","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:49:00"}
+{"level":"info","message":"Searching (4/8): 0N54T","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:49:03"}
+{"level":"info","message":"Searching (5/8): M7YNR","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:49:07"}
+{"level":"info","message":"Searching (6/8): NÃO ENCONTRADO","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:49:09"}
+{"level":"info","message":"No direct match for NÃO ENCONTRADO, trying advanced search...","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:49:15"}
+{"level":"info","message":"Searching (7/8): H959F","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:49:20"}
+{"level":"info","message":"Searching (8/8): C5RNH","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:49:23"}
+{"level":"info","message":"JSON output generated: brokerbin_output/brokerbin_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:49:25"}
+{"level":"info","message":"=== BrokerBin Finished ===","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:49:25"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:49:25"}
+{"level":"info","message":"Scraper finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-12-01 09:49:45"}
+{"level":"info","message":"=== EbayService Started ===","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:09:05"}
+{"level":"info","message":"Options: {\n  file: 'ebay_test_parts.csv',\n  columnIndex: undefined,\n  columnName: undefined,\n  skipHeader: undefined,\n  sheetName: undefined,\n  maxParts: '3',\n  offersLimit: '15',\n  delayMs: '2000',\n  headless: 'true',\n  outputDir: 'ebay_output',\n  saveHtml: undefined,\n  saveScreenshot: undefined,\n  keepOpen: undefined,\n  loginWait: '10000',\n  email: '***',\n  password: '***',\n  username: undefined\n}","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:09:05"}
+{"level":"info","message":"Total unique parts: 4","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:09:05"}
+{"level":"info","message":"Processing: 3","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:09:05"}
+{"level":"error","message":"Fatal Error: browserType.launchPersistentContext: headless: expected boolean, got string","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:09:05"}
+{"level":"info","message":"=== EbayService Finished ===","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:09:05"}
+{"level":"info","message":"=== EbayService Started ===","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:01"}
+{"level":"info","message":"Options: {\n  file: 'ebay_test_parts.csv',\n  columnIndex: 0,\n  columnName: undefined,\n  skipHeader: false,\n  sheetName: undefined,\n  maxParts: 3,\n  offersLimit: 15,\n  delayMs: 2000,\n  headless: true,\n  outputDir: 'ebay_output',\n  saveHtml: false,\n  saveScreenshot: false,\n  loginWait: 10000,\n  keepOpen: 0,\n  username: '',\n  password: '***',\n  email: '***'\n}","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:01"}
+{"level":"info","message":"Total unique parts: 4","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:01"}
+{"level":"info","message":"Processing: 3","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:01"}
+{"level":"info","message":"Opening https://www.ebay.com/...","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:01"}
+{"level":"info","message":"No credentials provided for eBay, proceeding as guest.","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:02"}
+{"level":"info","message":"Searching (1/3): PartNumber","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:02"}
+{"level":"info","message":"Searching (2/3): iPhone 13","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:05"}
+{"level":"info","message":"Searching (3/3): Dell Latitude 5420","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:10"}
+{"level":"info","message":"JSON output generated: ebay_output/ebay_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:13"}
+{"level":"info","message":"=== EbayService Finished ===","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:13"}
+{"level":"info","message":"=== EbayService Started ===","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:33"}
+{"level":"info","message":"Options: {\n  file: 'ebay_test_parts.csv',\n  columnIndex: 0,\n  columnName: undefined,\n  skipHeader: false,\n  sheetName: undefined,\n  maxParts: 1,\n  offersLimit: 15,\n  delayMs: 2000,\n  headless: true,\n  outputDir: 'ebay_output',\n  saveHtml: true,\n  saveScreenshot: false,\n  loginWait: 10000,\n  keepOpen: 0,\n  username: '',\n  password: '***',\n  email: '***'\n}","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:33"}
+{"level":"info","message":"Total unique parts: 4","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:33"}
+{"level":"info","message":"Processing: 1","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:33"}
+{"level":"info","message":"Opening https://www.ebay.com/...","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:33"}
+{"level":"info","message":"No credentials provided for eBay, proceeding as guest.","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:34"}
+{"level":"info","message":"Searching (1/1): PartNumber","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:34"}
+{"level":"info","message":"JSON output generated: ebay_output/ebay_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:37"}
+{"level":"info","message":"=== EbayService Finished ===","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:10:37"}
+{"level":"info","message":"=== EbayService Started ===","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:36:24"}
+{"level":"info","message":"Options: {\n  file: 'ebay_test_parts_real.csv',\n  columnIndex: 0,\n  columnName: undefined,\n  skipHeader: false,\n  sheetName: undefined,\n  maxParts: 1,\n  offersLimit: 15,\n  delayMs: 2000,\n  headless: true,\n  outputDir: 'ebay_output',\n  saveHtml: true,\n  saveScreenshot: false,\n  loginWait: 10000,\n  keepOpen: 0,\n  username: '',\n  password: '***',\n  email: '***'\n}","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:36:24"}
+{"level":"info","message":"Total unique parts: 3","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:36:24"}
+{"level":"info","message":"Processing: 1","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:36:24"}
+{"level":"info","message":"Opening https://www.ebay.com/...","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:36:24"}
+{"level":"info","message":"No credentials provided for eBay, proceeding as guest.","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:36:25"}
+{"level":"info","message":"Searching (1/1): laptop","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:36:25"}
+{"level":"info","message":"JSON output generated: ebay_output/ebay_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:36:28"}
+{"level":"info","message":"=== EbayService Finished ===","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:36:28"}
+{"level":"info","message":"=== EbayService Started ===","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:42:29"}
+{"level":"info","message":"Options: {\n  file: 'ebay_test_parts_real.csv',\n  columnIndex: 0,\n  columnName: undefined,\n  skipHeader: false,\n  sheetName: undefined,\n  maxParts: 1,\n  offersLimit: 15,\n  delayMs: 2000,\n  headless: true,\n  outputDir: 'ebay_output',\n  saveHtml: true,\n  saveScreenshot: false,\n  loginWait: 10000,\n  keepOpen: 0,\n  username: '',\n  password: '***',\n  email: '***'\n}","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:42:29"}
+{"level":"info","message":"Total unique parts: 3","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:42:29"}
+{"level":"info","message":"Processing: 1","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:42:29"}
+{"level":"info","message":"Opening https://www.ebay.com/...","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:42:29"}
+{"level":"info","message":"No credentials provided for eBay, proceeding as guest.","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:42:30"}
+{"level":"info","message":"Searching (1/1): laptop","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:42:30"}
+{"level":"info","message":"JSON output generated: ebay_output/ebay_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:42:33"}
+{"level":"info","message":"=== EbayService Finished ===","service":"amazon-invoice-bot","timestamp":"2025-12-01 20:42:33"}
+{"level":"info","message":"=== EbayService Started ===","service":"amazon-invoice-bot","timestamp":"2025-12-01 21:04:25"}
+{"level":"info","message":"Options: {\n  file: 'ebay_test_parts_real.csv',\n  columnIndex: 0,\n  columnName: undefined,\n  skipHeader: false,\n  sheetName: undefined,\n  maxParts: 1,\n  offersLimit: 15,\n  delayMs: 2000,\n  headless: false,\n  outputDir: 'ebay_output',\n  saveHtml: true,\n  saveScreenshot: false,\n  loginWait: 10000,\n  keepOpen: 5000,\n  username: '',\n  password: '***',\n  email: '***'\n}","service":"amazon-invoice-bot","timestamp":"2025-12-01 21:04:25"}
+{"level":"info","message":"Total unique parts: 3","service":"amazon-invoice-bot","timestamp":"2025-12-01 21:04:25"}
+{"level":"info","message":"Processing: 1","service":"amazon-invoice-bot","timestamp":"2025-12-01 21:04:25"}
+{"level":"info","message":"Opening https://www.ebay.com/...","service":"amazon-invoice-bot","timestamp":"2025-12-01 21:04:27"}
+{"level":"info","message":"No credentials provided for eBay, proceeding as guest.","service":"amazon-invoice-bot","timestamp":"2025-12-01 21:04:27"}
+{"level":"info","message":"Searching (1/1): laptop","service":"amazon-invoice-bot","timestamp":"2025-12-01 21:04:27"}
+{"level":"info","message":"JSON output generated: ebay_output/ebay_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-12-01 21:04:31"}
+{"level":"info","message":"=== EbayService Finished ===","service":"amazon-invoice-bot","timestamp":"2025-12-01 21:04:31"}
+{"level":"info","message":"Keeping browser open for 5000ms...","service":"amazon-invoice-bot","timestamp":"2025-12-01 21:04:31"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:06:53"}
+{"level":"info","message":"=== Amazon Invoices Runner ===","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:05"}
+{"level":"info","message":"Options: {\n  maxPages: 20,\n  headless: false,\n  onlyNew: false,\n  loginWait: 10000,\n  delayMs: 1500,\n  cardBrand: undefined,\n  cardLast4: undefined,\n  amex: false,\n  outputDir: '/Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/amazon_invoices',\n  email: '***',\n  password: '***',\n  autoLogin: false\n}","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:05"}
+{"level":"info","message":"Opening Amazon homepage...","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:06"}
+{"level":"info","message":"Auto-login no activo o sin credenciales. Esperando 10000ms para login manual...","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:08"}
+{"level":"info","message":"Navigating to Your Orders...","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:18"}
+{"level":"info","message":"Existing invoices found: 67","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:19"}
+{"level":"info","message":"Scanning orders page 1...","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:19"}
+{"level":"info","message":"Found 0 invoice links on page 1","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:20"}
+{"level":"info","message":"No Next button, pagination finished.","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:20"}
+{"level":"info","message":"Total unique links collected: 0","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:20"}
+{"level":"info","message":"Candidates after ONLY_NEW filter: 0","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:20"}
+{"level":"info","message":"No invoices to download with current filters.","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:20"}
+{"level":"info","message":"=== Process Completed ===","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:20"}
+{"level":"info","message":"=== BrokerBinService Started ===","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:33"}
+{"level":"info","message":"Options: {\n  file: 'input_parts.csv',\n  columnIndex: 0,\n  columnName: undefined,\n  skipHeader: false,\n  sheetName: undefined,\n  maxParts: 0,\n  offersLimit: 15,\n  delayMs: 1200,\n  headless: true,\n  outputDir: 'brokerbin_output',\n  saveHtml: false,\n  saveScreenshot: false,\n  loginWait: 8000,\n  keepOpen: 0,\n  username: 'tu_usuario',\n  password: '***',\n  email: '***'\n}","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:33"}
+{"level":"info","message":"Total unique parts: 4","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:33"}
+{"level":"info","message":"Processing: 4","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:33"}
+{"level":"info","message":"Opening https://www.brokerbin.com/...","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:34"}
+{"level":"info","message":"Auto-login attempted.","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:35"}
+{"level":"info","message":"Searching (1/4): WS-C2960-24TC-L","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:35"}
+{"level":"info","message":"Searching (2/4): GLC-LH-SMD","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:42"}
+{"level":"info","message":"Searching (3/4): SFP-10G-SR","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:49"}
+{"level":"info","message":"Searching (4/4): ASA5506-K9","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:07:56"}
+{"level":"info","message":"JSON output generated: brokerbin_output/brokerbin_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:08:02"}
+{"level":"info","message":"=== BrokerBinService Finished ===","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:08:02"}
+{"level":"info","message":"=== EbayService Started ===","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:09:09"}
+{"level":"info","message":"Options: {\n  file: 'input_parts.csv',\n  columnIndex: 0,\n  columnName: undefined,\n  skipHeader: false,\n  sheetName: undefined,\n  maxParts: 0,\n  offersLimit: 15,\n  delayMs: 2000,\n  headless: true,\n  outputDir: 'ebay_output',\n  saveHtml: false,\n  saveScreenshot: false,\n  loginWait: 10000,\n  keepOpen: 0,\n  username: '',\n  password: '***',\n  email: '***'\n}","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:09:09"}
+{"level":"info","message":"Total unique parts: 4","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:09:09"}
+{"level":"info","message":"Processing: 4","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:09:09"}
+{"level":"info","message":"Opening https://www.ebay.com/...","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:09:09"}
+{"level":"info","message":"No credentials provided for eBay, proceeding as guest.","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:09:10"}
+{"level":"info","message":"Searching (1/4): WS-C2960-24TC-L","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:09:10"}
+{"level":"info","message":"Searching (2/4): GLC-LH-SMD","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:09:14"}
+{"level":"info","message":"Searching (3/4): SFP-10G-SR","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:09:18"}
+{"level":"info","message":"Searching (4/4): ASA5506-K9","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:09:21"}
+{"level":"info","message":"JSON output generated: ebay_output/ebay_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:09:24"}
+{"level":"info","message":"=== EbayService Finished ===","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:09:24"}
+{"level":"error","message":"Server listen error: listen EADDRINUSE: address already in use 0.0.0.0:3000","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:20:52"}
+{"level":"error","message":"Server listen error: listen EADDRINUSE: address already in use 0.0.0.0:3000","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:29:55"}
+{"level":"info","message":"Server running on http://127.0.0.1:3000","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:30:39"}
+{"level":"info","message":"Starting scraper for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764686377676-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:39:37"}
+{"level":"info","message":"=== BrokerBinService Started ===","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:39:37"}
+{"level":"info","message":"Options: {\n  file: '/Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764686377676-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls',\n  columnIndex: 0,\n  columnName: 'Manufacturer (OEM) PN',\n  skipHeader: false,\n  sheetName: 'Other Content',\n  maxParts: 0,\n  offersLimit: 3,\n  delayMs: 1200,\n  headless: true,\n  outputDir: 'brokerbin_output',\n  saveHtml: true,\n  saveScreenshot: true,\n  loginWait: 8000,\n  keepOpen: 20000,\n  username: 'tu_usuario',\n  password: '***',\n  email: '***'\n}","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:39:37"}
+{"level":"info","message":"Total unique parts: 9","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:39:37"}
+{"level":"info","message":"Processing: 9","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:39:37"}
+{"level":"info","message":"Opening https://www.brokerbin.com/...","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:39:38"}
+{"level":"info","message":"Auto-login attempted.","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:39:39"}
+{"level":"info","message":"Searching (1/9): Manufacturer (OEM) PN","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:39:39"}
+{"level":"info","message":"Searching (2/9): 92V86","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:39:46"}
+{"level":"info","message":"Searching (3/9): HYM6Y","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:39:53"}
+{"level":"info","message":"Searching (4/9): KRM6X","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:40:00"}
+{"level":"info","message":"Searching (5/9): 0N54T","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:40:07"}
+{"level":"info","message":"Searching (6/9): M7YNR","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:40:14"}
+{"level":"info","message":"Searching (7/9): NÃO ENCONTRADO","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:40:21"}
+{"level":"info","message":"Searching (8/9): H959F","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:40:28"}
+{"level":"info","message":"Searching (9/9): C5RNH","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:40:35"}
+{"level":"info","message":"JSON output generated: brokerbin_output/brokerbin_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:40:42"}
+{"level":"info","message":"=== BrokerBinService Finished ===","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:40:42"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:40:42"}
+{"level":"info","message":"Scraper finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-12-02 09:41:02"}
+{"level":"info","message":"Starting scraper for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764687922525-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:05:22"}
+{"level":"info","message":"=== BrokerBinService Started ===","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:05:22"}
+{"level":"info","message":"Options: {\n  file: '/Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764687922525-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls',\n  columnIndex: 0,\n  columnName: 'Manufacturer (OEM) PN',\n  skipHeader: false,\n  sheetName: 'Other Content',\n  maxParts: 0,\n  offersLimit: 3,\n  delayMs: 1200,\n  headless: true,\n  outputDir: 'brokerbin_output',\n  saveHtml: true,\n  saveScreenshot: true,\n  loginWait: 8000,\n  keepOpen: 20000,\n  username: 'tu_usuario',\n  password: '***',\n  email: '***'\n}","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:05:22"}
+{"level":"info","message":"Total unique parts: 9","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:05:22"}
+{"level":"info","message":"Processing: 9","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:05:22"}
+{"level":"info","message":"Opening https://www.brokerbin.com/...","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:05:23"}
+{"level":"info","message":"Auto-login attempted.","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:05:27"}
+{"level":"info","message":"Searching (1/9): Manufacturer (OEM) PN","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:05:27"}
+{"level":"info","message":"Searching (2/9): 92V86","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:05:34"}
+{"level":"info","message":"Searching (3/9): HYM6Y","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:05:41"}
+{"level":"info","message":"Searching (4/9): KRM6X","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:05:48"}
+{"level":"info","message":"Searching (5/9): 0N54T","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:05:55"}
+{"level":"info","message":"Searching (6/9): M7YNR","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:06:02"}
+{"level":"info","message":"Searching (7/9): NÃO ENCONTRADO","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:06:09"}
+{"level":"info","message":"Searching (8/9): H959F","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:06:16"}
+{"level":"info","message":"Searching (9/9): C5RNH","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:06:23"}
+{"level":"info","message":"JSON output generated: brokerbin_output/brokerbin_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:06:30"}
+{"level":"info","message":"=== BrokerBinService Finished ===","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:06:30"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:06:30"}
+{"level":"info","message":"Scraper finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-12-02 10:06:50"}
+{"level":"info","message":"Starting scraper for file: /Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764706655914-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:17:35"}
+{"level":"info","message":"=== BrokerBinService Started ===","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:17:36"}
+{"level":"info","message":"Options: {\n  file: '/Users/yo/Downloads/OneDrive_2025-11-28/PlayRight Automations/amazon-invoice-bot/uploads/1764706655914-11-25-25 Doc5455707328 - RFQ Brasil ZOEM LS (1) (1).xls',\n  columnIndex: 0,\n  columnName: 'Manufacturer (OEM) PN',\n  skipHeader: false,\n  sheetName: 'Other Content',\n  maxParts: 0,\n  offersLimit: 3,\n  delayMs: 1200,\n  headless: true,\n  outputDir: 'brokerbin_output',\n  saveHtml: true,\n  saveScreenshot: true,\n  loginWait: 8000,\n  keepOpen: 20000,\n  username: 'tu_usuario',\n  password: '***',\n  email: '***'\n}","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:17:36"}
+{"level":"info","message":"Total unique parts: 9","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:17:36"}
+{"level":"info","message":"Processing: 9","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:17:36"}
+{"level":"info","message":"Opening https://www.brokerbin.com/...","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:17:36"}
+{"level":"info","message":"Auto-login attempted.","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:17:37"}
+{"level":"info","message":"Searching (1/9): Manufacturer (OEM) PN","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:17:37"}
+{"level":"info","message":"Searching (2/9): 92V86","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:17:44"}
+{"level":"info","message":"Searching (3/9): HYM6Y","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:17:51"}
+{"level":"info","message":"Searching (4/9): KRM6X","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:17:58"}
+{"level":"info","message":"Searching (5/9): 0N54T","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:18:05"}
+{"level":"info","message":"Searching (6/9): M7YNR","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:18:12"}
+{"level":"info","message":"Searching (7/9): NÃO ENCONTRADO","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:18:19"}
+{"level":"info","message":"Searching (8/9): H959F","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:18:26"}
+{"level":"info","message":"Searching (9/9): C5RNH","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:18:33"}
+{"level":"info","message":"JSON output generated: brokerbin_output/brokerbin_offers_detailed.json","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:18:40"}
+{"level":"info","message":"=== BrokerBinService Finished ===","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:18:40"}
+{"level":"info","message":"Keeping browser open for 20000ms...","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:18:40"}
+{"level":"info","message":"Scraper finished with code 0","service":"amazon-invoice-bot","timestamp":"2025-12-02 15:19:00"}

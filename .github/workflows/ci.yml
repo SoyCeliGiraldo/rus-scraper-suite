@@ -1,0 +1,41 @@
+name: CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [18.x]
+
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+        
+    - name: Install dependencies (root)
+      run: npm ci
+
+    - name: Install and build client
+      run: |
+        cd client
+        npm ci
+        npm run build
+    
+    - name: Run Linting (non-blocking)
+      run: npm run lint || echo "Lint warnings only"
+      
+    - name: Run Tests
+      env:
+        API_KEY: test-key
+      run: npm test --silent

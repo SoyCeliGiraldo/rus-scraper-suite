@@ -1,0 +1,44 @@
+ # Node
+ node_modules/
+ npm-debug.log*
+ yarn-debug.log*
+ yarn-error.log*
+ pnpm-debug.log*
+
+ # Env
+ .env
+ .env.local
+ .env.*.local
+
+ # Logs
+ logs/
+ *.log
+ nohup.out
+
+ # Coverage
+ coverage/
+
+ # Build outputs
+ client/dist/
+ public_old/
+
+ # Playwright/Browser profiles
+ **/pw-profile*/
+ **/test-profile/
+ **/new-profile/
+
+ # Uploads/Outputs
+ uploads/
+ amazon_invoices_json/
+ amazon_search_output/
+ ebay_output/
+ brokerbin_output/
+
+ # Mac specific
+ .DS_Store
+.env
+node_modules/
+brokerbin_output/
+amazon_invoices/
+pw-profile/
+pw-profile-brokerbin/

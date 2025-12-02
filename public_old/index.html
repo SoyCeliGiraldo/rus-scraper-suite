@@ -1,0 +1,110 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>BrokerBin Cotizador</title>
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; margin: 2rem; }
+    form { display: grid; gap: 0.75rem; max-width: 560px; }
+    input, select, button { padding: 0.5rem; font-size: 1rem; }
+    .row { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; }
+    .log { white-space: pre-wrap; background: #f7f7f7; padding: 1rem; border: 1px solid #ddd; }
+    table { border-collapse: collapse; }
+    th, td { padding: 4px 6px; border: 1px solid #ccc; }
+  </style>
+</head>
+<body>
+  <h1>BrokerBin Cotizador</h1>
+  <p>Completa tus credenciales, elige la hoja y la columna del Excel, y sube el archivo. Max Parts: 0 = sin límite.</p>
+  <form id="f" method="post" enctype="multipart/form-data" action="/run">
+    <label>Usuario BrokerBin <input name="username" required /></label>
+    <label>Password BrokerBin <input name="password" type="password" required /></label>
+    <div class="row">
+      <label>Hoja (Excel) <input name="sheetName" placeholder="Other Content" /></label>
+      <label>Columna (cabecera) <input name="columnName" placeholder="Manufacturer (OEM) PN" /></label>
+    </div>
+    <div class="row">
+  <label>Max Parts <input name="maxParts" type="number" value="0" /></label>
+      <label>Delay ms <input name="delayMs" type="number" value="1200" /></label>
+    </div>
+    <div class="row">
+      <label>Offers Limit <input name="offersLimit" type="number" value="3" min="1" max="20" /></label>
+      <div></div>
+    </div>
+    <label>Archivo Excel <input name="excel" type="file" accept=".xlsx,.xls,.csv" required /></label>
+    <button type="submit">Ejecutar</button>
+  </form>
+  <h2>Resultado</h2>
+  <div id="result"></div>
+  <div id="loading" style="display:none;margin-top:1rem;">⏳ Ejecutando scraping, espera por favor...</div>
+  <div id="preview"></div>
+  <script>
+    const form = document.getElementById('f');
+    async function renderOffersJSON() {
+      const previewDiv = document.getElementById('preview');
+      previewDiv.innerHTML = '';
+      const resp = await fetch('/offers');
+      const data = await resp.json().catch(()=>({ offers: [] }));
+      const offers = Array.isArray(data.offers) ? data.offers : [];
+      if (!offers.length) {
+        previewDiv.innerHTML = '<p>No hay ofertas para mostrar aún. Revisa el log o intenta con menos partes.</p>';
+        return;
+      }
+      const headerKeys = Object.keys(offers[0]);
+      const rowsHtml = offers.slice(0, 20).map(o => '<tr>' + headerKeys.map(k => `<td>${o[k] ?? ''}</td>`).join('') + '</tr>').join('');
+      previewDiv.innerHTML = `<h3>Ofertas (JSON)</h3>` +
+        `<table><thead><tr>${headerKeys.map(h=>`<th>${h}</th>`).join('')}</tr></thead>` +
+        `<tbody>${rowsHtml}</tbody></table>` +
+        `<p>Mostrando ${Math.min(offers.length,20)} de ${offers.length} ofertas.</p>`;
+    }
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const fd = new FormData(form);
+      document.getElementById('loading').style.display = 'block';
+      document.getElementById('result').innerHTML = '';
+      document.getElementById('preview').innerHTML = '';
+      const res = await fetch('/run', { method: 'POST', body: fd });
+      const json = await res.json().catch(() => ({ error: 'No JSON' }));
+      document.getElementById('loading').style.display = 'none';
+      const el = document.getElementById('result');
+      if (json.error) { el.textContent = 'Error: ' + json.error; return; }
+      el.innerHTML = `
+        <p>Código salida: ${json.code}</p>
+        <p><a href="${json.offersCsv || '#'}" ${json.offersCsv ? '' : 'style="pointer-events:none;color:#999;"'} target="_blank">Descargar ofertas detalladas</a></p>
+        <p><a href="${json.resultsCsv || '#'}" ${json.resultsCsv ? '' : 'style="pointer-events:none;color:#999;"'} target="_blank">Descargar resultados</a></p>
+        <details><summary>Log</summary><pre class="log">${json.log}</pre></details>
+      `;
+      // Intentar pintar desde CSV si está disponible
+      const previewDiv = document.getElementById('preview');
+      let painted = false;
+      if (json.offersCsv) {
+        try {
+          const csvRes = await fetch(json.offersCsv);
+          const csvText = await csvRes.text();
+          const lines = csvText.trim().split(/\r?\n/).slice(0, 21); // header + 20
+          if (lines.length) {
+            const rows = lines.map(l => l.split(/,(?=(?:[^"]*"[^"]*")*[^"]*$)/));
+            const header = rows[0];
+            const body = rows.slice(1);
+            previewDiv.innerHTML = `<h3>Vista previa ofertas (CSV)</h3>` +
+              `<table border="1" cellpadding="4" cellspacing="0" style="border-collapse:collapse;font-size:0.85rem;">` +
+              `<thead><tr>${header.map(h=>`<th>${h}</th>`).join('')}</tr></thead>` +
+              `<tbody>${body.map(r=>`<tr>${r.map(c=>`<td>${c}</td>`).join('')}</tr>`).join('')}</tbody>` +
+              `</table>` +
+              `<p>Mostrando ${Math.min(body.length,20)} de ${body.length} ofertas.</p>`;
+            painted = true;
+          }
+        } catch (e) {
+          // fallback a JSON abajo
+        }
+      }
+      // Si no pudimos pintar desde CSV, intentar JSON
+      if (!painted) {
+        await renderOffersJSON();
+      }
+    });
+  </script>
+</body>
+</html>
