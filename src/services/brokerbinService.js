@@ -9,7 +9,7 @@ class BrokerBinService extends BaseScraper {
       ...options,
       username: options.username || process.env.BROKERBIN_USER || '',
       password: options.password || process.env.BROKERBIN_PASS || '',
-      outputDir: options.outputDir || 'brokerbin_output',
+      outputDir: options.outputDir || (process.env.VERCEL ? '/tmp' : 'brokerbin_output'),
       offersLimit: options.offersLimit || '15',
       delayMs: options.delayMs || '1200',
       loginWait: options.loginWait || '8000',
