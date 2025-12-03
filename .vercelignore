@@ -1,0 +1,22 @@
+# Ignore heavy local artifacts and outputs on deploy
+node_modules/
+logs/
+coverage/
+nohup.out
+
+# Browser profiles and caches
+**/pw-profile*/
+**/test-profile/
+**/new-profile/
+
+# Uploads and outputs (generated locally)
+uploads/
+amazon_invoices_json/
+amazon_search_output/
+ebay_output/
+brokerbin_output/
+public_old/
+client/node_modules/
+
+# macOS
+.DS_Store
