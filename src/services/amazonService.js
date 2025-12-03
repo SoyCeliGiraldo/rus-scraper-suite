@@ -18,7 +18,8 @@ class AmazonService {
       cardBrand: options.cardBrand,
       cardLast4: options.cardLast4,
       amex: !!options.amex,
-      outputDir: options.outputDir || path.join(process.cwd(), 'amazon_invoices'),
+      amex: !!options.amex,
+      outputDir: options.outputDir || (process.env.VERCEL ? '/tmp' : path.join(process.cwd(), 'amazon_invoices')),
       // Auto-login (opcional)
       email: options.email || process.env.AMAZON_EMAIL || '',
       password: options.password || process.env.AMAZON_PASSWORD || '',
@@ -36,12 +37,27 @@ class AmazonService {
 
   async run() {
     logger.info('=== Amazon Invoices Runner ===');
-  logger.info('Options: %o', sanitizeObject(this.options));
+    logger.info('Options: %o', sanitizeObject(this.options));
 
     let context, page;
 
     try {
-      ({ context, page } = await BrowserFactory.create('pw-profile', this.options.headless));
+      if (process.env.BROWSER_WS_ENDPOINT) {
+        logger.info(`Connecting to remote browser: ${process.env.BROWSER_WS_ENDPOINT}`);
+        const { chromium } = require('playwright');
+        const browser = await chromium.connect(process.env.BROWSER_WS_ENDPOINT);
+        context = await browser.newContext();
+        page = await context.newPage();
+      } else if (process.env.VERCEL) {
+        logger.warn('Running on Vercel without BROWSER_WS_ENDPOINT. Launching local browser (may fail due to size limits)...');
+        // On Vercel, we cannot use persistent profiles easily. Use ephemeral context.
+        const { chromium } = require('playwright');
+        const browser = await chromium.launch({ headless: true });
+        context = await browser.newContext();
+        page = await context.newPage();
+      } else {
+        ({ context, page } = await BrowserFactory.create('pw-profile', this.options.headless));
+      }
 
       logger.info('Opening Amazon homepage...');
       await page.goto('https://www.amazon.com/', { waitUntil: 'domcontentloaded' });
@@ -195,7 +211,7 @@ class AmazonService {
         if (await page.$(contSel)) {
           await Promise.all([
             page.click(contSel),
-            page.waitForNavigation({ waitUntil: 'domcontentloaded' }).catch(() => {})
+            page.waitForNavigation({ waitUntil: 'domcontentloaded' }).catch(() => { })
           ]);
         }
       } else {
@@ -207,7 +223,7 @@ class AmazonService {
         if (await page.$(submitSel)) {
           await Promise.all([
             page.click(submitSel),
-            page.waitForNavigation({ waitUntil: 'domcontentloaded' }).catch(() => {})
+            page.waitForNavigation({ waitUntil: 'domcontentloaded' }).catch(() => { })
           ]);
         }
         logger.info('Auto-login enviado.');

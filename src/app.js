@@ -15,10 +15,15 @@ const app = express();
 // Relax CSP to allow inline scripts used for Safari polyfills
 app.use(helmet({ contentSecurityPolicy: false }));
 // CORS restricted by ALLOWED_ORIGINS (comma separated), defaults to '*'
+// CORS restricted by ALLOWED_ORIGINS (comma separated), defaults to '*'
 const allowedOrigins = (process.env.ALLOWED_ORIGINS || '*').split(',').map(s => s.trim());
 app.use(cors({
   origin: (origin, cb) => {
-    if (!origin || allowedOrigins.includes('*') || allowedOrigins.includes(origin)) return cb(null, true);
+    // Allow requests with no origin (like mobile apps or curl requests)
+    if (!origin) return cb(null, true);
+    if (allowedOrigins.includes('*') || allowedOrigins.includes(origin)) return cb(null, true);
+    // Allow Vercel deployments
+    if (origin.endsWith('.vercel.app')) return cb(null, true);
     cb(new Error('CORS not allowed'));
   },
   credentials: true
@@ -53,10 +58,30 @@ app.get('/download', (req, res) => {
     'amazon-invoice-bot/ebay_output',
     'amazon-invoice-bot/amazon_invoices',
   ];
-  const isAllowed = allowed.some(prefix => rel.startsWith(prefix));
+
+  // In Vercel, we might be serving from /tmp
+  if (process.env.VERCEL) {
+    // Allow downloading from /tmp
+    if (!rel.startsWith('/tmp') && !allowed.some(prefix => rel.startsWith(prefix))) {
+      // If it doesn't start with /tmp and isn't in allowed list, check if we can map it to /tmp
+      // This is a simplification; in a real app you'd map the requested ID to a temp file
+    }
+  }
+
+  const isAllowed = allowed.some(prefix => rel.startsWith(prefix)) || (process.env.VERCEL && rel.startsWith('/tmp'));
+
   if (!isAllowed) return res.status(403).send('Download not allowed from this path');
 
-  const abs = path.join(__dirname, '..', rel);
+  let abs = path.join(__dirname, '..', rel);
+
+  // If on Vercel and path doesn't exist in project root, check /tmp
+  if (process.env.VERCEL && !fs.existsSync(abs)) {
+    const tmpPath = path.join('/tmp', path.basename(rel));
+    if (fs.existsSync(tmpPath)) {
+      abs = tmpPath;
+    }
+  }
+
   if (!fs.existsSync(abs)) return res.status(404).send('Archivo no encontrado');
   res.download(abs);
 });

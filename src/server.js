@@ -3,12 +3,11 @@ require('dotenv').config();
 const app = require('./app');
 const logger = require('./utils/logger');
 
-// Exportar handler compatible con Vercel Functions
-module.exports = (req, res) => app(req, res);
+// Export express app for Vercel (or other serverless platforms)
+module.exports = app;
 
-// En entorno local, levantar servidor HTTP
+// Only start the server if NOT running in a serverless environment (like Vercel)
 if (!process.env.VERCEL) {
-  // Modo local: levantar servidor HTTP
   const port = process.env.PORT || 3000;
   const host = process.env.HOST || '0.0.0.0';
 

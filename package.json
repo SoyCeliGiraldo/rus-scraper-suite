@@ -14,7 +14,8 @@
     "amazon": "node src/services/amazonService.js",
     "amazon-search": "node scripts/runAmazonSearch.js",
     "brokerbin": "node src/services/brokerbinService.js",
-    "build": "cd client && npm install && npm run build"
+    "build": "cd client && npm install && npm run build",
+    "vercel-build": "cd client && npm install && npm run build"
   },
   "keywords": [
     "automation",
@@ -57,5 +58,8 @@
     "postcss": "^8.5.6",
     "supertest": "^7.0.0",
     "tailwindcss": "^4.1.17"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
