@@ -42,3 +42,5 @@ brokerbin_output/
 amazon_invoices/
 pw-profile/
 pw-profile-brokerbin/
+.vercel
+.env*.local
